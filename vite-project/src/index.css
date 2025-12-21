@@ -66,3 +66,21 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+
+
+#id-1{
+    background-color: red;
+}
+#id-2{
+    background-color: blue;
+}
+#id-3{
+    background-color: green;
+}
+#id-4{
+    background-color: yellow;
+}
+#id-5{
+    background-color: purple;
+}

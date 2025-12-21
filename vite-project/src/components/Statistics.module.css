@@ -1,0 +1,23 @@
+.liItem {
+    width: 100px;
+    height: 100px;
+
+}
+
+.ulList {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.divContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.color{
+    color: black;
+}
